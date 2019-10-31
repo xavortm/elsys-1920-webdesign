@@ -1,0 +1,7 @@
+.child > p {
+	background: red;
+}
+
+.child > h2 ~ p {
+	background: blue;
+}

@@ -1,0 +1,9 @@
+.child > p {
+	color: white;
+	background: red;
+}
+
+.child > h2 ~ p {
+	color: black;
+	background: transparent;
+}
