@@ -1,7 +1,6 @@
 # Level 4 - Agenda
 
 Layouts!
-
  * display: flex
 
 Showcase: Build a basic template:
@@ -12,7 +11,8 @@ Showcase: Build a basic template:
 Homework: 
  * Header with menu
  * Main area with gallery with images
- * Use flex for ordering things
+ * Goal: use flex for ordering things
+http://bit.ly/webdesign-homework-2
 
 Read more:
  * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
